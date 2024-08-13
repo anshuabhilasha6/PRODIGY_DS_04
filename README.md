@@ -4,7 +4,7 @@ The task aimed to analyze sentiment patterns in Twitter data to gain insights in
 
 The dataset included in this task consists of Twitter data collected from Kaggle.
 
-Tools ⚒️ and libraries 📚 used are
+Tools ⚒️ and libraries 📚 used are:
 1) Google colab 
 2)Pandas
 3) Numpy 
